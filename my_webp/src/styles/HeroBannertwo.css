@@ -14,7 +14,7 @@
     border-radius: 84px 0 0 84px;
     overflow: hidden;
     position: relative;
-    background-image: url(./images/2one.webp);
+    background-image: url(/images/2one.webp);
     background-size: cover;
     background-position: center left;
     display: flex;

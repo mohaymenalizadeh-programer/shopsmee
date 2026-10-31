@@ -35,7 +35,7 @@
 
 /* بنر حاوی متن (پس‌زمینه کامل) */
 .banner-right-bg {
-  background-image: url('./images/aHFfu.webp');
+  background-image: url('/images/aHFfu.webp');
   background-size: cover;
   background-position: center;
   display: flex;
