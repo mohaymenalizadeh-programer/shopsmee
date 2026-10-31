@@ -14,7 +14,7 @@
     border-radius: 40px 40px 0 0;
     position: relative;
     overflow: hidden;
-    background-image: url('./images/file_00000000a09081f49686542e284e7924.png');
+    background-image: url('/images/file_00000000a09081f49686542e284e7924.png');
     background-size: cover;
     background-position: center;
     display: flex;
